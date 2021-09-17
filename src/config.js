@@ -5,6 +5,6 @@ export default {
     clientId: "8a71737662b34529baad288c6a6f2118",
     clientSecret: "ed8d17ddfc294ed59a226467368767d6",
     AuthToken:
-      "BQCEwMIO1xdI2l8-w7dEHexKCV6FP3lsO4mP2-eO3FYE8o76Z_IW8sPZotkkDo_ZdQOF8pucRAKgNl4XISb5aHjh7Kh1AfUt0iQrNoNv7wjHd4XuV0he5WDtR6Yg3bXNVgyUo0BJtZRp-09E-BwRmml0K7zI98WDO0g",
+      "BQALJob3SfEa9T0PHYcJIc38HnhHzWnpZGxFLaqcd2hOp1X-64wp2t4YKM3sBfUrMuOPvVrhHJXwWG0UE3XQxiS4-VrX_5eiKJW_E6EBqfoQZqMidU4hgMBGn6V_enRTj7kS2emqd0PPbbok1BvAYk0z4zInyUGibtk",
   },
 };
